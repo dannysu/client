@@ -109,6 +109,7 @@ var badChainLinks = map[keybase1.SigID]string{
 	"eb5c7e7d3cf8370bed8ab55c0d8833ce9d74fd2c614cf2cd2d4c30feca4518fa0f": fmt.Sprintf(badLinkTemplate, 23),
 	"0f175ef0d3b57a9991db5deb30f2432a85bc05922bbe727016f3fb660863a1890f": fmt.Sprintf(badLinkTemplate, 24),
 	"48267f0e3484b2f97859829503e20c2f598529b42c1d840a8fc1eceda71458400f": fmt.Sprintf(badLinkTemplate, 25),
+	"1171fb8def065ecd8e053b042d7f162520de4b0bef853da7580e0668707770250f": "jamgregory link #17 has was over a bad PGP key the server should have rejected",
 }
 
 // Some chainlinks are broken and need a small whitespace addition to match their payload
